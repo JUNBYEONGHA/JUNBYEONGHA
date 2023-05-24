@@ -1,5 +1,13 @@
 ###  Jun Byeong Ha 👋
 
+<hr/>
+
+### Tech Stack
+![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)
+![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![csharp](https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
+
 <!--
 **JUNBYEONGHA/JUNBYEONGHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
